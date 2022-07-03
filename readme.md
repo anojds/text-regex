@@ -1,3 +1,10 @@
+<div align="center">
+  <h1>text-regex (Easier to use regex)</h1>
+
+  [![npm version](http://img.shields.io/npm/v/text-regex.svg?style=flat-square)](https://www.npmjs.org/package/text-regex)
+  [![downloads](http://img.shields.io/npm/dm/text-regex.svg?style=flat-square)](https://www.npmjs.org/package/text-regex)
+</div>
+
 ## Install
 
 > NPM
